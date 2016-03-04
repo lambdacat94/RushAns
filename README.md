@@ -14,7 +14,7 @@
 无法实现多客户服务甚至高并发服务。
 ```
 关于同步异步，阻塞非阻塞IO，有几篇文章以及知乎上的回答很好：
-[1](http://blog.chinaunix.net/uid-26000296-id-3754118.html
-[2](http://www.zhihu.com/question/19732473)
-[3](http://www.cnblogs.com/Anker/p/3254269.html)
+* [1](http://blog.chinaunix.net/uid-26000296-id-3754118.html)
+* [2](http://www.zhihu.com/question/19732473)
+* [3](http://www.cnblogs.com/Anker/p/3254269.html)
 
